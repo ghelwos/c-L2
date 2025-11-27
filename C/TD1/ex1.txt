@@ -1,0 +1,7 @@
+4.
+L1 : On inclut les fonctionnalités de la librairie standard dans notre fichier source.
+L3-L4 : On initialise la fonction main qui ne prend aucun argument et retournera un entier ;
+généralement 0 en cas d'exécution normale et autre chose en cas de problème.
+L6 :  On affiche, à l'aide de la fonction printf de la librairie standard, une chaîne de caractères avec un saut
+de ligne à la fin.
+L7 : On retourne 0 en fin de portée, généralement pour signaler qu'il n'y a pas eu de problème durant l'exécution.

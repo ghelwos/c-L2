@@ -1,0 +1,5 @@
+1. Pour a = 5 le programme affichera "--> valeur positive"
+Pour a = -4 le programme affichera "--> valeur negative"
+2. La ligne 8 emploie l'opérateur trinaire, après vérification d'une condition (ici a < 0) on exécutera le premier
+bloc d'instructions si l'affirmation est vraie, le second sinon.
+3. 

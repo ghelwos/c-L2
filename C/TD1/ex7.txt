@@ -1,0 +1,2 @@
+L'instruction switch-case prend une valeur en paramètre et en fonction de celle-ci va exécuter
+un certain bloc d'instruction. Elle sert de solution alternative plus simple à l'empilement de blocs if/else.
